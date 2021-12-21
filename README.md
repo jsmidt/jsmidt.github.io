@@ -1,1 +1,0 @@
-# jsmidt.github.io
