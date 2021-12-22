@@ -30,8 +30,7 @@ twitter_username: josephsmidt
 github_username:  jsmidt
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
